@@ -1,0 +1,7 @@
+mcp[cli]>=1.2.0
+edge-tts>=7.0.0
+pillow>=10.0.0
+numpy>=1.26.0
+moviepy>=2.0.0
+starlette>=0.38.0
+uvicorn>=0.30.0

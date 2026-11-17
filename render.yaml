@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: horror-2d-cartoons-mcp
+    runtime: docker
+    plan: free
+    envVars:
+      - key: RENDER
+        value: "true"
+      - key: RENDER_QUALITY
+        value: "720p"
